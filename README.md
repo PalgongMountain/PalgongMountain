@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PalgongMountain
 - 👀 I’m interested in Unity or Unreal Engine
-- 🌱 I’m currently learning C,C++,C#,JAVA,Python,HTML,JavaScript,
+- 🌱 I’m currently learning C,C++,C#,JAVA,Python,HTML,JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
